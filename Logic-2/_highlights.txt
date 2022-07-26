@@ -1,0 +1,5 @@
+- makeBricks: efficient solution without any loops
+- fixTeen: pay attention to the decomposition
+*** blackjack
+*** makeChocolate
+- evenlySpaced: first sort the values

@@ -1,0 +1,3 @@
+- xyzThere: ternary operator can be used as a boolean expression inside an if statement.
+- xyBalance: starting from the end of the string is a good idea.
+- starOut

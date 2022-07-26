@@ -1,0 +1,1 @@
+- noX: string.replace() method can be used to remove all the occurences of a specific substring in a string. This method returns the modified string.

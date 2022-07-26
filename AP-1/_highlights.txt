@@ -1,0 +1,3 @@
+- sumHeights2: ternary expression can be used on the right side of the "+=" operator.
+- mergeTwo: take the advantage of input array being sorted and without multiples
+- commonTwo: pay attention to how multiples are handled (String last)

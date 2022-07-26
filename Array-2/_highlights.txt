@@ -1,0 +1,3 @@
+*** twoTwo
+- without10: It is easier to create a new array.
+- zeroMax: Traverse the array backwards.

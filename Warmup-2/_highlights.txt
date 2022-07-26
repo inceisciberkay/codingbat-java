@@ -1,0 +1,2 @@
+- stringYak: while looking for a particular pattern in a string, always iterate by one.
+- arrayFront9: loop should execute at most 4 times.

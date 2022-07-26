@@ -1,0 +1,4 @@
+- countHi: no need to check if the lenght of the string >= 2 after the base condition.
+** parenBit: good strategy
+- strCopies: pay attention to the base case
+- strDist: similar to parenBit
